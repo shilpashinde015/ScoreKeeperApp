@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import java.text.NumberFormat;
 
-/**
+/***
  * This app displays an order form to order coffee.
  */
 public class MainActivity extends AppCompatActivity {
